@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+    cursor: "pointer"
+}
+
+.table-link {
+    display: contents;
+    text-decoration: none;
+    color: inherit;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
